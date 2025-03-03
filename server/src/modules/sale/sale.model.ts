@@ -17,3 +17,5 @@ const saleSchema = new Schema<ISale>(
 
 const Sale = model<ISale>('sale', saleSchema);
 export default Sale;
+
+
