@@ -19,3 +19,5 @@ const updateSchema = z.object({
 
 const saleValidator = { createSchema, updateSchema };
 export default saleValidator;
+
+
