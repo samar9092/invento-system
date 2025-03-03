@@ -239,3 +239,6 @@ class SaleServices extends BaseServices<any> {
 
 const saleServices = new SaleServices(Sale, 'modelName');
 export default saleServices;
+
+
+
